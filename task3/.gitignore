@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+.venv/
+__pycache__/
+*.py[cod]
+tmp/
+=======
+/.venv/
+/.pytest_cache/
+__pycache__/
+*.py[cod]
+/2627-HK1-AI-CK.pdf
+/Task1_NQueens_TaiLieuOnTap.pdf
+>>>>>>> 7dfdb740d407e82dfba5a54b0a769f23666c711f

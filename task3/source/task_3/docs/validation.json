@@ -1,0 +1,14 @@
+{
+  "runs_timing": 100,
+  "solved": 100,
+  "median_ms": 17.48554999994667,
+  "min_ms": 16.809199999897828,
+  "max_ms": 21.55979999997726,
+  "assignments": 48,
+  "backtracks": 0,
+  "pruned": 384,
+  "memory_runs": 50,
+  "python_traced_current_bytes": 10368,
+  "python_traced_peak_bytes": 1111078,
+  "note": "Local Windows runtime; not the Intel macOS grading machine. Python allocations only."
+}

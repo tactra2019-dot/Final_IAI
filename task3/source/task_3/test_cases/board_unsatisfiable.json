@@ -1,0 +1,10 @@
+{
+  "name": "Synthetic unsatisfiable board for observing genuine backtracking",
+  "legend": "Row totals are 45, column totals are 46: no solution exists",
+  "grid": [
+    ["#", {"down":15}, {"down":15}, {"down":16}],
+    [{"across":15}, ".", ".", "."],
+    [{"across":15}, ".", ".", "."],
+    [{"across":15}, ".", ".", "."]
+  ]
+}
