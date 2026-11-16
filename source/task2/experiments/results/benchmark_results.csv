@@ -1,0 +1,19 @@
+Scenario,Algorithm,Depth,Winner,Turns,Avg_Time_ms,Total_Nodes,Pruned_Branches,Nodes_Per_Move,Win_Flag
+Map 1 - Open,Minimax,3,Draw,80,9.679,10144,0,253.6,0
+Map 1 - Open,Alpha-Beta,3,Draw,80,3.653,4183,2961,104.6,0
+Map 1 - Open,Heuristic Minimax,3,Draw,80,13.105,9808,0,245.2,0
+Map 1 - Open,Heuristic Alpha-Beta,3,Draw,80,3.886,3162,1957,79.0,0
+Map 2 - Tactical,Minimax,3,Draw,80,12.34,9940,0,248.5,0
+Map 2 - Tactical,Alpha-Beta,3,Draw,80,6.856,5644,2436,141.1,0
+Map 2 - Tactical,Heuristic Minimax,3,P1,51,19.265,6692,0,257.4,1
+Map 2 - Tactical,Heuristic Alpha-Beta,3,P1,51,4.056,1723,1121,66.3,1
+Map 3 - Endgame,Minimax,3,Draw,80,13.077,9910,0,247.8,0
+Map 3 - Endgame,Alpha-Beta,3,Draw,80,6.738,5745,2575,143.6,0
+Map 3 - Endgame,Heuristic Minimax,3,P1,25,24.964,3325,0,255.8,1
+Map 3 - Endgame,Heuristic Alpha-Beta,3,P1,25,3.834,858,625,66.0,1
+Map 1 - Open,Alpha-Beta,4,Draw,80,13.491,14612,10670,365.3,0
+Map 1 - Open,Heuristic Alpha-Beta,4,Draw,80,17.182,9535,8686,238.4,0
+Map 2 - Tactical,Alpha-Beta,4,Draw,80,25.041,14733,10789,368.3,0
+Map 2 - Tactical,Heuristic Alpha-Beta,4,P1,53,15.208,4174,4752,154.6,1
+Map 3 - Endgame,Alpha-Beta,4,Draw,80,24.21,21183,12163,529.6,0
+Map 3 - Endgame,Heuristic Alpha-Beta,4,P1,25,7.845,1904,2050,146.5,1
