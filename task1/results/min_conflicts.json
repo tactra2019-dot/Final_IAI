@@ -1,0 +1,327 @@
+{
+  "kind": "min_conflicts",
+  "config": {
+    "sizes": [
+      5
+    ],
+    "trials_per_size": 10,
+    "max_steps": 1000,
+    "max_restarts": 10,
+    "seed": 0
+  },
+  "environment": {
+    "python": "3.14.3",
+    "platform": "Windows-11-10.0.26300-SP0",
+    "processor": "AMD64 Family 25 Model 68 Stepping 1, AuthenticAMD"
+  },
+  "trials": [
+    {
+      "n": 5,
+      "trial": 0,
+      "seed": 0,
+      "variant": "standard",
+      "success": true,
+      "runtime_seconds": 0.00030350001179613173,
+      "steps": 7,
+      "total_conflicts": 25,
+      "final_conflicts": 0,
+      "restarts": 0
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "seed": 0,
+      "variant": "improved",
+      "success": true,
+      "runtime_seconds": 0.00019409999367780983,
+      "steps": 4,
+      "total_conflicts": 11,
+      "final_conflicts": 0,
+      "restarts": 0
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "seed": 1,
+      "variant": "standard",
+      "success": true,
+      "runtime_seconds": 0.0001218999968841672,
+      "steps": 2,
+      "total_conflicts": 7,
+      "final_conflicts": 0,
+      "restarts": 0
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "seed": 1,
+      "variant": "improved",
+      "success": true,
+      "runtime_seconds": 0.00012740000966005027,
+      "steps": 2,
+      "total_conflicts": 7,
+      "final_conflicts": 0,
+      "restarts": 0
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "seed": 2,
+      "variant": "standard",
+      "success": true,
+      "runtime_seconds": 0.00024560000747442245,
+      "steps": 8,
+      "total_conflicts": 14,
+      "final_conflicts": 0,
+      "restarts": 0
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "seed": 2,
+      "variant": "improved",
+      "success": true,
+      "runtime_seconds": 9.079999290406704e-05,
+      "steps": 2,
+      "total_conflicts": 4,
+      "final_conflicts": 0,
+      "restarts": 0
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "seed": 3,
+      "variant": "standard",
+      "success": true,
+      "runtime_seconds": 9.119999594986439e-05,
+      "steps": 3,
+      "total_conflicts": 10,
+      "final_conflicts": 0,
+      "restarts": 0
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "seed": 3,
+      "variant": "improved",
+      "success": true,
+      "runtime_seconds": 0.00011409999569877982,
+      "steps": 3,
+      "total_conflicts": 8,
+      "final_conflicts": 0,
+      "restarts": 0
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "seed": 4,
+      "variant": "standard",
+      "success": true,
+      "runtime_seconds": 8.540000999346375e-05,
+      "steps": 3,
+      "total_conflicts": 11,
+      "final_conflicts": 0,
+      "restarts": 0
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "seed": 4,
+      "variant": "improved",
+      "success": true,
+      "runtime_seconds": 0.00012389998300932348,
+      "steps": 3,
+      "total_conflicts": 11,
+      "final_conflicts": 0,
+      "restarts": 0
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "seed": 5,
+      "variant": "standard",
+      "success": true,
+      "runtime_seconds": 0.00019130000146105886,
+      "steps": 9,
+      "total_conflicts": 18,
+      "final_conflicts": 0,
+      "restarts": 0
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "seed": 5,
+      "variant": "improved",
+      "success": true,
+      "runtime_seconds": 0.00015609999536536634,
+      "steps": 4,
+      "total_conflicts": 10,
+      "final_conflicts": 0,
+      "restarts": 0
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "seed": 6,
+      "variant": "standard",
+      "success": true,
+      "runtime_seconds": 0.00022119999630376697,
+      "steps": 13,
+      "total_conflicts": 30,
+      "final_conflicts": 0,
+      "restarts": 0
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "seed": 6,
+      "variant": "improved",
+      "success": true,
+      "runtime_seconds": 9.209997369907796e-05,
+      "steps": 3,
+      "total_conflicts": 12,
+      "final_conflicts": 0,
+      "restarts": 0
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "seed": 7,
+      "variant": "standard",
+      "success": true,
+      "runtime_seconds": 6.849999772384763e-05,
+      "steps": 2,
+      "total_conflicts": 2,
+      "final_conflicts": 0,
+      "restarts": 0
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "seed": 7,
+      "variant": "improved",
+      "success": true,
+      "runtime_seconds": 6.890000076964498e-05,
+      "steps": 2,
+      "total_conflicts": 2,
+      "final_conflicts": 0,
+      "restarts": 0
+    },
+    {
+      "n": 5,
+      "trial": 8,
+      "seed": 8,
+      "variant": "standard",
+      "success": true,
+      "runtime_seconds": 6.959997699595988e-05,
+      "steps": 2,
+      "total_conflicts": 7,
+      "final_conflicts": 0,
+      "restarts": 0
+    },
+    {
+      "n": 5,
+      "trial": 8,
+      "seed": 8,
+      "variant": "improved",
+      "success": true,
+      "runtime_seconds": 9.06999921426177e-05,
+      "steps": 2,
+      "total_conflicts": 7,
+      "final_conflicts": 0,
+      "restarts": 0
+    },
+    {
+      "n": 5,
+      "trial": 9,
+      "seed": 9,
+      "variant": "standard",
+      "success": true,
+      "runtime_seconds": 0.00023589999182149768,
+      "steps": 16,
+      "total_conflicts": 24,
+      "final_conflicts": 0,
+      "restarts": 0
+    },
+    {
+      "n": 5,
+      "trial": 9,
+      "seed": 9,
+      "variant": "improved",
+      "success": true,
+      "runtime_seconds": 0.00027990000671707094,
+      "steps": 16,
+      "total_conflicts": 24,
+      "final_conflicts": 0,
+      "restarts": 0
+    }
+  ],
+  "summary": [
+    {
+      "n": 5,
+      "variant": "standard",
+      "success_rate": 1.0,
+      "runtime_seconds": {
+        "mean": 0.00016340999864041805,
+        "median": 0.00015659999917261302,
+        "stdev": 8.601285177534596e-05,
+        "min": 6.849999772384763e-05,
+        "max": 0.00030350001179613173
+      },
+      "steps": {
+        "mean": 6.5,
+        "median": 5.0,
+        "stdev": 5.01663898109747,
+        "min": 2,
+        "max": 16
+      },
+      "total_conflicts": {
+        "mean": 14.8,
+        "median": 12.5,
+        "stdev": 9.150591966279194,
+        "min": 2,
+        "max": 30
+      },
+      "restarts": {
+        "mean": 0,
+        "median": 0.0,
+        "stdev": 0.0,
+        "min": 0,
+        "max": 0
+      }
+    },
+    {
+      "n": 5,
+      "variant": "improved",
+      "success_rate": 1.0,
+      "runtime_seconds": {
+        "mean": 0.00013379999436438083,
+        "median": 0.00011899998935405165,
+        "stdev": 6.294897824336849e-05,
+        "min": 6.890000076964498e-05,
+        "max": 0.00027990000671707094
+      },
+      "steps": {
+        "mean": 4.1,
+        "median": 3.0,
+        "stdev": 4.254409477236529,
+        "min": 2,
+        "max": 16
+      },
+      "total_conflicts": {
+        "mean": 9.6,
+        "median": 9.0,
+        "stdev": 5.985166849990251,
+        "min": 2,
+        "max": 24
+      },
+      "restarts": {
+        "mean": 0,
+        "median": 0.0,
+        "stdev": 0.0,
+        "min": 0,
+        "max": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "kind": "sat",
+  "config": {
+    "sizes": [
+      5
+    ],
+    "repeats": 3
+  },
+  "environment": {
+    "python": "3.14.3",
+    "platform": "Windows-11-10.0.26300-SP0",
+    "processor": "AMD64 Family 25 Model 68 Stepping 1, AuthenticAMD"
+  },
+  "trials": [
+    {
+      "n": 5,
+      "repeat": 0,
+      "variables": 25,
+      "clauses": 165,
+      "cnf_seconds": 0.00011500000255182385,
+      "solver_seconds": 0.00023440000950358808,
+      "total_seconds": 0.00034940001205541193,
+      "status": "SAT",
+      "valid": true
+    },
+    {
+      "n": 5,
+      "repeat": 1,
+      "variables": 25,
+      "clauses": 165,
+      "cnf_seconds": 0.0001084999821614474,
+      "solver_seconds": 0.00017809998826123774,
+      "total_seconds": 0.00028659997042268515,
+      "status": "SAT",
+      "valid": true
+    },
+    {
+      "n": 5,
+      "repeat": 2,
+      "variables": 25,
+      "clauses": 165,
+      "cnf_seconds": 9.849999332800508e-05,
+      "solver_seconds": 0.0001886999816633761,
+      "total_seconds": 0.00028719997499138117,
+      "status": "SAT",
+      "valid": true
+    }
+  ],
+  "summary": [
+    {
+      "n": 5,
+      "variables": 25,
+      "clauses": 165,
+      "status": "SAT",
+      "all_valid": true,
+      "cnf_seconds": {
+        "mean": 0.00010733332601375878,
+        "median": 0.0001084999821614474,
+        "stdev": 8.311641896865561e-06,
+        "min": 9.849999332800508e-05,
+        "max": 0.00011500000255182385
+      },
+      "solver_seconds": {
+        "mean": 0.00020039999314273396,
+        "median": 0.0001886999816633761,
+        "stdev": 2.9918068110008448e-05,
+        "min": 0.00017809998826123774,
+        "max": 0.00023440000950358808
+      },
+      "total_seconds": {
+        "mean": 0.00030773331915649277,
+        "median": 0.00028719997499138117,
+        "stdev": 3.608566161538743e-05,
+        "min": 0.00028659997042268515,
+        "max": 0.00034940001205541193
+      }
+    }
+  ]
+}
